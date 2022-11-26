@@ -1,0 +1,31 @@
+Employee ID: 18467
+Employee Name: Mark Souza
+Employee Hire Date: 08/02/2022
+Employee Title: PE Teacher
+Employee Salary: 95000
+Employee Username: msouza
+Employee Password: arkansas
+
+Employee ID: 54363
+Employee Name: John Cargo
+Employee Hire Date: 08/05/1966
+Employee Title: Custodian
+Employee Salary: 56754
+Employee Username: Cargo
+Employee Password: arkansas
+
+Employee ID: 23948
+Employee Name: Robert Balogne
+Employee Hire Date: 08/20/1966
+Employee Title: HR Analyst
+Employee Salary: 56754
+Employee Username: quan
+Employee Password: arkansas
+
+Employee ID: 23542
+Employee Name: Study McStud
+Employee Hire Date: 08/21/1966
+Employee Title: Manager
+Employee Salary: 56754
+Employee Username: littlerock
+Employee Password: arkansas
